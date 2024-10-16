@@ -15,7 +15,7 @@ My philosophy.
 
 超脱为一所需，仙佛为一迷津。见：[臥虎藏龍 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/臥虎藏龍_(電影))
 
-求生为一所需，偷生为一迷津。见：[无极 (电影) - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/无极_(电影))
+求生为一所需，贪生为一迷津。见：[无极 (电影) - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/无极_(电影))
 
 物资为一所需，贪得为一迷津。见：[金瓶梅 - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/金瓶梅)
 
