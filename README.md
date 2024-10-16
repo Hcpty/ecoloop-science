@@ -11,7 +11,7 @@ My philosophy.
 
 第三
 
-世有不可违，不可违之处为可为、须为之处。
+世有不可违，不可违之处为可为、当为之处。
 
 ### Credits
 - [關子尹 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/關子尹)
