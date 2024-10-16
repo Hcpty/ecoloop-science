@@ -15,6 +15,8 @@ My philosophy.
 
 不可违之处即是可为、须为之处。
 
+人是基因编程机器中的一种，基因来自于先天遗传、中天孕育和后天刺激。
+
 ### Credits
 - [關子尹 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/關子尹)
 - [金瓶梅 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/金瓶梅)、[臥虎藏龍 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/臥虎藏龍_(電影))
