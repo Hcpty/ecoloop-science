@@ -19,6 +19,6 @@ My philosophy.
 
 ### Credits
 - [關子尹 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/關子尹)
-- [金瓶梅 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/金瓶梅)、[臥虎藏龍 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/臥虎藏龍_(電影))
+- [金瓶梅 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/金瓶梅)和[臥虎藏龍 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/臥虎藏龍_(電影))
 - [少年Pi的奇幻漂流 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/少年Pi的奇幻漂流_(電影))
-- [Perfume: The Story of a Murderer (film) - Wikipedia](https://en.wikipedia.org/wiki/Perfume:_The_Story_of_a_Murderer_(film))、[色，戒 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/色，戒_(電影))、[Sherlock (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Sherlock_(TV_series))、[Shōgun (2024 TV series) - Wikipedia](https://en.wikipedia.org/wiki/Shōgun_(2024_TV_series))
+- [Perfume: The Story of a Murderer (film) - Wikipedia](https://en.wikipedia.org/wiki/Perfume:_The_Story_of_a_Murderer_(film))、[色，戒 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/色，戒_(電影))、[Sherlock (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Sherlock_(TV_series))和[Shōgun (2024 TV series) - Wikipedia](https://en.wikipedia.org/wiki/Shōgun_(2024_TV_series))
