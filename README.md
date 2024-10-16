@@ -1,7 +1,7 @@
 # Readme
 My philosophy.
 
-### 我的哲学
+### My Philosophy
 
 第一
 
