@@ -19,8 +19,8 @@ My philosophy.
 
 求生为一所需，偷生为一迷津。见：[无极 (电影) - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/无极_(电影))
 
-交配为一所需，情色为一迷津。见：[色，戒 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/色，戒_(電影))
-
 物资为一所需，聚敛为一迷津。见：[金瓶梅 - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/金瓶梅)
+
+交配为一所需，情色为一迷津。见：[色，戒 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/色，戒_(電影))
 
 权柄为一所需，天授为一迷津。见：[清宮秘史 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/清宫秘史)
