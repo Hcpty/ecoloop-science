@@ -12,4 +12,4 @@ My philosophy.
 ### Credits
 - [關子尹 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/關子尹)
 - [金瓶梅 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/金瓶梅)
-- [少年Pi的奇幻漂流 (電影) - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-hk/少年Pi的奇幻漂流_(電影))
+- [少年Pi的奇幻漂流 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/少年Pi的奇幻漂流_(電影))
