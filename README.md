@@ -16,13 +16,13 @@ My philosophy of life.
 人有肉身之缚，故有不可为：
 
 不悟道为一迷津，修仙佛为一迷津。<br />
-绝人情为一迷津，痴情鬼为一迷津。<br />
 贪利得为一迷津，病财货为一迷津。<br />
+绝人情为一迷津，痴情鬼为一迷津。<br />
 
 ### Credits
 - [清宮秘史 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/清宫秘史)
 - [臥虎藏龍 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/臥虎藏龍_(電影))
-- [罗曼蒂克消亡史 - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/罗曼蒂克消亡史)
-- [色，戒 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/色，戒_(電影))
 - [金瓶梅 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/金瓶梅)
 - [天堂的孩子 (1997年電影) - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/天堂的孩子_(1997年電影))
+- [罗曼蒂克消亡史 - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/罗曼蒂克消亡史)
+- [色，戒 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/色，戒_(電影))
