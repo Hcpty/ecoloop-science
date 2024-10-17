@@ -1,5 +1,5 @@
 # Readme
-My philosophy of human life.
+My philosophy of life.
 
 龙背记：
 
