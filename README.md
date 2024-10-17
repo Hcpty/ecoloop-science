@@ -1,7 +1,7 @@
 # Readme
 My philosophy.
 
-迷津集：
+龙背集：
 
 第一
 
