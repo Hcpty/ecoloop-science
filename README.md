@@ -13,7 +13,7 @@ My philosophy of human life.
 
 第三
 
-世有当为不当为。
+世有可为不可为。
 
 超脱为一安处，仙佛为一迷津。
 
