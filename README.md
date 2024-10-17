@@ -19,6 +19,8 @@ My philosophy of life.
 
 财货为一安处，贪得为一迷津。交欢为一安处，情痴为一迷津。
 
+凭此二断，人生应无自作孽之灾。
+
 ### Credits
 - [臥虎藏龍 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/臥虎藏龍_(電影))
 - [金瓶梅 - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/金瓶梅)和[色，戒 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/色，戒_(電影))
