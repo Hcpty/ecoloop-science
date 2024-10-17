@@ -1,7 +1,7 @@
 # Readme
 My philosophy.
 
-龙背记：
+龙脊记：
 
 第一
 
