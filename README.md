@@ -1,7 +1,7 @@
 # Readme
 My philosophy of life.
 
-龙背记：
+龙背书：
 
 第一
 
