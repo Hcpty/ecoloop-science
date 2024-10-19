@@ -14,6 +14,6 @@ My philosophy.
 哲学研究的目的是发现各种反应方程式。哲学实践的目的是借助合适的反应方程式和反应物对指定的个体或指定的环境进行改造。
 
 ### Credits
-- [Sherlock (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Sherlock_(TV_series))
 - [西游记之佛祖对最难关卡的解题思路，黑手套们活不明白的悲哀结局 - YouTube](https://www.youtube.com/watch?v=TYO_tbvXbbw)
+- [Sherlock (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Sherlock_(TV_series))
 - [Shōgun (2024 TV series) - Wikipedia](https://en.wikipedia.org/wiki/Shōgun_(2024_TV_series))
