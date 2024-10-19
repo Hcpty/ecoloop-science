@@ -13,7 +13,7 @@ My philosophy.
 个体的当前状态 + 环境的当前状态 -> 个体的目标状态 + 环境的目标状态
 ```
 
-理论研究的目的是发现各种反应方程式。实践活动的目的是对特定个体或特定环境进行人工改造。
+理论研究的目的是发现各种反应方程式。实践活动的目的是借助合适的反应方程式和反应物对指定个体或指定环境进行人工改造。
 
 ### Credits
 - [Sherlock (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Sherlock_(TV_series))
