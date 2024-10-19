@@ -12,3 +12,10 @@ My philosophy.
 ```python
 个体的当前状态 + 环境的当前状态 -> 个体的目标状态 + 环境的目标状态
 ```
+
+理论研究的目的是发现各种反应方程式。实践活动的目的是对特定个体或特定环境进行人工改造。
+
+### Credits
+- [Sherlock (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Sherlock_(TV_series))
+- [西游记之佛祖对最难关卡的解题思路，黑手套们活不明白的悲哀结局 - YouTube](https://www.youtube.com/watch?v=TYO_tbvXbbw)
+- [Shōgun (2024 TV series) - Wikipedia](https://en.wikipedia.org/wiki/Shōgun_(2024_TV_series))
