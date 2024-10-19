@@ -1,5 +1,5 @@
 # Readme
-My philosophy of life.
+My philosophy.
 
 ### 龙背书
 
