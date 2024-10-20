@@ -9,6 +9,8 @@ My philosophy.
 
 哲学研究的内容是掌握各种反应物的性质与反应方程式。哲学实践的内容是借助反应改变反应物的状态，以达到某一个（些）目的。
 
+先天遗传、中天孕育和后天环境决定基因，基因决定意志，意志决定行为。
+
 ### Credits
 - [西游记的最难三关，佛爷爷的三次出手 - 哔哩哔哩](https://www.bilibili.com/video/BV1re4y1b7sV)
 - [Sherlock (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Sherlock_(TV_series))
