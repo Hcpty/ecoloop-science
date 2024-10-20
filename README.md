@@ -10,6 +10,6 @@ My philosophy.
 哲学研究的内容是掌握各种反应物的性质及反应方程式。哲学实践的内容是借助反应改变反应物的状态。
 
 ### Credits
-- [西游记之佛祖对最难关卡的解题思路，黑手套们活不明白的悲哀结局 - YouTube](https://www.youtube.com/watch?v=TYO_tbvXbbw)
+- [深度|| 佛祖对最难关卡的解题思路，黑手套们活不明白的悲哀结局\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1re4y1b7sV)
 - [Sherlock (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Sherlock_(TV_series))
 - [Shōgun (2024 TV series) - Wikipedia](https://en.wikipedia.org/wiki/Shōgun_(2024_TV_series))
