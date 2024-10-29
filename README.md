@@ -14,8 +14,5 @@ My problems.
 先天遗传、中天孕育和后天环境决定基因，基因决定意志，意志决定行为。
 
 ### Credits
-- [西游记的最难三关，佛爷爷的三次出手 - 哔哩哔哩](https://www.bilibili.com/video/BV1re4y1b7sV/)
-- [The Final Problem (Sherlock) - Wikipedia](https://en.wikipedia.org/wiki/The_Final_Problem_(Sherlock))
-- [Shōgun (2024 TV series) - Wikipedia](https://en.wikipedia.org/wiki/Shōgun_(2024_TV_series))
 - [北京大学藏西汉竹书[贰]：第二卷《老子》 - 北京大学中国古代史研究中心](https://zggds.pku.edu.cn/xzxz/58180.htm)
-- [西西弗神话 - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/西绪弗斯神话)
+- [西游记的最难三关，佛爷爷的三次出手 - 哔哩哔哩](https://www.bilibili.com/video/BV1re4y1b7sV/)、[The Final Problem (Sherlock) - Wikipedia](https://en.wikipedia.org/wiki/The_Final_Problem_(Sherlock))和[Shōgun (2024 TV series) - Wikipedia](https://en.wikipedia.org/wiki/Shōgun_(2024_TV_series))
