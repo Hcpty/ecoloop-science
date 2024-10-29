@@ -18,3 +18,4 @@ My problems.
 - [The Final Problem (Sherlock) - Wikipedia](https://en.wikipedia.org/wiki/The_Final_Problem_(Sherlock))
 - [Shōgun (2024 TV series) - Wikipedia](https://en.wikipedia.org/wiki/Shōgun_(2024_TV_series))
 - [北京大学藏西汉竹书[贰]：第二卷《老子》 - 北京大学中国古代史研究中心](https://zggds.pku.edu.cn/xzxz/58180.htm)
+- [西西弗神话 - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/西绪弗斯神话)
