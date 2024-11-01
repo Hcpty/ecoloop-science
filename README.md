@@ -1,5 +1,5 @@
 # Readme
-Paths and ruts.
+Paths and Ruts.
 
 ### 道与辙
 
