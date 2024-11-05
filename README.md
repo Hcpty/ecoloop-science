@@ -1,5 +1,5 @@
 # Readme
-Ruts and Path.
+A note about Ruts and Path.
 
 ### 有辙和知道
 古代的道路最明显的特征就是上面有车辙，地点序列称为道路。知其然称为有辙，知其所以然称为知道。
