@@ -1,6 +1,3 @@
-# Readme
-A note about Path and Ruts.
-
 # 道和辙
 
 ## 道和辙
