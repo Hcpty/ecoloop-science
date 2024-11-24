@@ -10,6 +10,6 @@
 万物如同倒骑牛而行，牛导物行。从性而为是万物的道路。
 
 ## References
-- [北京大学藏西汉竹书[贰]：第二卷《老子》 - 北京大学中国古代史研究中心](https://zggds.pku.edu.cn/xzxz/58180.htm)
+- [老子 (北京大学藏西汉竹书) - 北京大学中国古代史研究中心](https://zggds.pku.edu.cn/xzxz/58180.htm)
 - [An Eternal Lamb (2010) - MyDramaList](https://mydramalist.com/722607-an-eternal-lamb)
 - [臥虎藏龍 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/臥虎藏龍_(電影))、[色，戒 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/色，戒_(電影))和[少年Pi的奇幻漂流 (電影) - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/少年Pi的奇幻漂流_(電影))
