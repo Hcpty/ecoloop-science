@@ -15,5 +15,4 @@
 
 ## See also
 
-- [The Final Problem (Sherlock) - Wikipedia](https://en.wikipedia.org/wiki/The_Final_Problem_(Sherlock))
-- [Shōgun (2024 TV series) - Wikipedia](https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(2024_TV_series))
+- [The Final Problem (Sherlock) - Wikipedia](https://en.wikipedia.org/wiki/The_Final_Problem_(Sherlock)), [Shōgun (2024 TV series) - Wikipedia](https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(2024_TV_series))
