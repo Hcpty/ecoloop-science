@@ -11,3 +11,7 @@
 ## References
 
 - 永生羊 - 叶尔克西·胡尔曼别克
+
+## See also
+
+- [Resource configuration - Hcpty](https://github.com/Hcpty/resource-configuration)
