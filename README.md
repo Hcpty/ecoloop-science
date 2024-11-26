@@ -11,7 +11,3 @@
 ## References
 
 - 永生羊 - 叶尔克西·库尔班拜克
-
-## See also
-
-- [Path and ruts - Hcpty](https://github.com/Hcpty/path-and-ruts)
