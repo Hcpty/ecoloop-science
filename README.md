@@ -11,3 +11,7 @@
 ## References
 
 - 永生羊 - 叶尔克西·库尔班拜克
+
+## See also
+
+- [Planting, animal husbandry and confucianism - Hcpty](https://github.com/Hcpty/planting-animal-husbandry-and-confucianism)
