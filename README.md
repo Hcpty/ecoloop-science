@@ -1,4 +1,4 @@
-# 生态系统科学
+# 生态环路科学
 
 ## 众生相生相克
 
@@ -17,4 +17,4 @@
 
 ## See also
 
-- [Ecosystem configuration - Hcpty](https://github.com/Hcpty/ecosystem-configuration)
+- [Ecoloop configuration - Hcpty](https://github.com/Hcpty/ecoloop-configuration)
