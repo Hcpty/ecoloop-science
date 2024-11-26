@@ -14,4 +14,4 @@
 
 ## See also
 
-- [Planting, animal husbandry and confucianism - Hcpty](https://github.com/Hcpty/planting-animal-husbandry-and-confucianism)
+- [Collecting, breeding and confucianism - Hcpty](https://github.com/Hcpty/collecting-breeding-and-confucianism)
