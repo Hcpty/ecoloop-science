@@ -10,7 +10,7 @@
 
 ## References
 
-- [永生羊 - 叶尔克西·库尔班拜克](magnet:?xt=urn:btih:7717DE2BA7038D5C49079A555BA5E7625AA9F335)
+- 永生羊 - 叶尔克西·库尔班拜克
 
 ## See also
 
