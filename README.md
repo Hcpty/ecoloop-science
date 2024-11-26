@@ -11,7 +11,3 @@
 ## References
 
 - 永生羊 - 叶尔克西·胡尔曼别克
-
-## See also
-
-- [Collecting, breeding and confucianism - Hcpty](https://github.com/Hcpty/collecting-breeding-and-confucianism)
