@@ -14,4 +14,4 @@
 
 ## See also
 
-- [Resource configuration - Hcpty](https://github.com/Hcpty/resource-configuration)
+- [Ecosystem configuration - Hcpty](https://github.com/Hcpty/ecosystem-configuration)
