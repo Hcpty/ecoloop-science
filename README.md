@@ -16,4 +16,5 @@
 
 ## See also
 
+- [Force - Hcpty](https://github.com/Hcpty/force)
 - [Ecoloop configuration - Hcpty](https://github.com/Hcpty/ecoloop-configuration)
