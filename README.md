@@ -16,5 +16,5 @@
 
 ## See also
 
-- [Force - Hcpty](https://github.com/Hcpty/force)
+- [Defense agency - Hcpty](https://github.com/Hcpty/defense-agency)
 - [Ecoloop configuration - Hcpty](https://github.com/Hcpty/ecoloop-configuration)
