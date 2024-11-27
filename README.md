@@ -16,5 +16,4 @@
 
 ## See also
 
-- [Attack and defense - Hcpty](https://github.com/Hcpty/attack-and-defense)
 - [Ecoloop configuration - Hcpty](https://github.com/Hcpty/ecoloop-configuration)
