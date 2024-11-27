@@ -12,7 +12,3 @@
 
 - 永生羊 - 叶尔克西·胡尔曼别克
 - 道德经 - 老子, 罗织经 - 来俊臣, 长短经 - 赵蕤
-
-## See also
-
-- [Ecoloop configuration - Hcpty](https://github.com/Hcpty/ecoloop-configuration)
