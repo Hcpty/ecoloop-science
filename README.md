@@ -16,5 +16,5 @@
 
 ## See also
 
-- [Defense agency - Hcpty](https://github.com/Hcpty/defense-agency)
+- [Attack agency and Defense agency - Hcpty](https://github.com/Hcpty/attack-agency-and-defense-agency)
 - [Ecoloop configuration - Hcpty](https://github.com/Hcpty/ecoloop-configuration)
